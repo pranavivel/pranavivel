@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Email: ** velpranavi800@gmail.com
+Email: velpranavi800@gmail.com
 
 I'm a junior The University of Georgia, studying Computer Science
 
