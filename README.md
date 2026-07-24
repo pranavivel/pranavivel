@@ -13,12 +13,12 @@ Outside of my core CS classes, I have taken animation courses and developed a bi
 
 ## 🎯 Featured Project
 
-### 📝 NotesApp AI Text Summarizer | [[GitHub Repo](https://github.com/your-username/notes-app-ai-text-summarizer)]
+### 📝 NotesApp AI Text Summarizer | [[GitHub Repo](https://github.com/pranavivel/notes-app-ai-text-summarizer)]
 * **What I Did:** Architected a full stack notes application equipped with an automated text summarizer to process lengthy documentation. Configured API rate limiting using Upstash Redis to safeguard backend endpoints against abuse.
 * **Tools:** Node.js, Express.js, React, Vite, MongoDB, Upstash Redis, Tailwind CSS, DaisyUI, Axios
 * **Result:** Successfully built a responsive application that prevents API rate limits while allowing fast CRUD operations and automated text summaries for user notes.
 
-> 💡 *Curious? See the full project [here](https://github.com/your-username/notes-app-ai-text-summarizer).*
+> 💡 *Curious? See the full project [here](https://github.com/pranavivel/notes-app-ai-text-summarizer).*
 
 ---
 
@@ -35,7 +35,7 @@ Outside of my core CS classes, I have taken animation courses and developed a bi
 
 ## 🚀 Projects
 
-### 🎵 Musical | Command Line Music Manager | [[GitHub Repo](https://github.com/your-username/music-app-playlists-songs)]
+### 🎵 Musical | Command Line Music Manager | [[GitHub Repo](https://github.com/pranavivel/music-app-playlists-songs)]
 * **Description:** Built an object oriented Java application simulating a music management ecosystem to organize collections, create dynamic playlists, and rate tracks.
 * **Tech Stack:** Java, Data Structures (HashMap, ArrayList), OOP
 * **Key Learnings:** Implemented custom collection structures for song tracking and managed global application states through modular Java design patterns.
