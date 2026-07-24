@@ -35,7 +35,7 @@ Outside of my core CS classes, I have taken animation courses and developed a bi
 
 ## 🚀 Projects
 
-### 🎵 Musical | Command Line Music Manager | [[GitHub Repo](https://github.com/pranavivel/music-app-playlists-songs)]
+### 🎵 Music App | Command Line Music Manager | [[GitHub Repo](https://github.com/pranavivel/music-app-playlists-songs)]
 * **Description:** Built an object oriented Java application simulating a music management ecosystem to organize collections, create dynamic playlists, and rate tracks.
 * **Tech Stack:** Java, Data Structures (HashMap, ArrayList), OOP
 * **Key Learnings:** Implemented custom collection structures for song tracking and managed global application states through modular Java design patterns.
