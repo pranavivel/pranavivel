@@ -45,7 +45,7 @@ Outside of my core CS classes, I have taken animation courses and developed a bi
 ## 📫 How to Reach Me
 
 * **Email:** [velpranavi800@gmail.com](mailto:velpranavi800@gmail.com)
-* **LinkedIn:** [www.linkedin.com/in/pranavivel](www.linkedin.com/in/pranavivel)
+* **LinkedIn:** [linkedin.com/in/pranavivel](https://www.linkedin.com/in/pranavivel)
 
 ---
 
